@@ -48,7 +48,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <!-- <li><a href="#usage">Usage</a></li> -->
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) //Creer un screenshot du site
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Demande un petit resume a Sami
 
