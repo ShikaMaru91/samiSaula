@@ -57,8 +57,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<div align="center">
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+  [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+</div>
 
 Demande un petit resume a Sami
 
